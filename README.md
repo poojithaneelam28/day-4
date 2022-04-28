@@ -1,2 +1,2 @@
  day-4
-sep_end_method
+ways of ascending variables
