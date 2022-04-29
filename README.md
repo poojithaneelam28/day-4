@@ -2,4 +2,4 @@
  
 ways of ascending variables
 
-video link:https://bit.ly/3KpVhSz
+video link:https://bit.ly/3LvJe7p
